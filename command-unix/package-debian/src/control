@@ -1,0 +1,6 @@
+Package: rdvdeb
+Version: 1.0
+Maintainer: ReadyDev <youremail@readydev.com>
+Architecture: arm64
+Homepage: https://readydev.ovh/home
+Description: Apprendre à créer un package DEB

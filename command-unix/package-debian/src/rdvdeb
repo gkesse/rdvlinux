@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# affiche un message
+echo "[rdvdeb] Démarrage du package DEB (v2)..."

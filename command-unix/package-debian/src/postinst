@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# affiche le message de post installation du package
+echo "[rdvdeb] Démarrage de la post installation..."

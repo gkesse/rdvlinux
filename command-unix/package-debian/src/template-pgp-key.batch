@@ -1,0 +1,9 @@
+%echo Génération d'une clé PGP
+Key-Type: RSA
+Key-Length: 4096
+Name-Real: rdvapt
+Name-Email: youremail@readydev.com
+Expire-Date: 0
+%no-ask-passphrase
+%no-protection
+%commit
